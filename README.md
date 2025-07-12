@@ -57,7 +57,7 @@ Each query includes a brief comment describing its purpose and the business insi
 
 ## Key Insights
 
-- **Slowest Deliveries:** The states of Amazonas (AM), Alagoas (AL), Pará (PA), Maranhão (MA), and Sergipe (SE) average 26.4, 24.5, 23.7, 21.5, and 21.5 days to deliver respectively—highlighting clear regional logistics challenges.
+- **Slowest Deliveries:** Customers in Roraima (RR), Amapá (AP), and Amazonas (AM) experience the longest delivery times, averaging 29.3 to 26.4 days. These are followed by Alagoas (AL) and Pará (PA). The results suggest logistical inefficiencies in Brazil’s northern regions, likely due to infrastructure or distance from major distribution hubs.
 
 - **Top Revenue Categories:**  
   - **beleza_saude** leads with 9,670 units sold and R$1.26 M in revenue  
