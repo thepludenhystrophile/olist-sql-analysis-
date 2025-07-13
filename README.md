@@ -83,12 +83,13 @@ Each query includes a brief comment describing its purpose and the business insi
   - Paraná (PR) 4,923 orders at 11.9 days
 
 - **Most Popular Categories by Volume:**  
-  - **cama_mesa_banho** (9,417 orders)  
-  - **beleza_saude** (8,836 orders)  
-  - **esporte_lazer** (7,720 orders)  
-  - **informatica_acessorios** (6,689)  
-  - **movies_decoracao** (6,449)  
-  - **utilidades_domesticas** (5,884)
+  - cama_mesa_banho (11,115 orders)  
+  - beleza_saude (9,670 orders)  
+  - esporte_lazer (8,641 orders)
+  - movies_decoracao (8,334 orders)
+  - informatica_acessorios (7,827 orders)   
+  - utilidades_domesticas (6,964 orders)
+  - relogios_presentes (5,991 orders)
 
 - **Payment Preferences:**  
   - **Credit card** dominates with 76,795 orders (73.9%)  
