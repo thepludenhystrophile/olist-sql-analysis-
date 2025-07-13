@@ -62,13 +62,13 @@ Each query includes a brief comment describing its purpose and the business insi
 - **Top Revenue Categories:**  
   - **beleza_saude** leads with 9,670 units sold and R$1.26 M in revenue  
   - **relogios_presentes** follows with 5,991 units and R$1.21 M  
-  - **cama_mesa_banho** ranks third (1,115 units; R$1.04 M)  
+  - **cama_mesa_banho** ranks third (11,115 units; R$1.04 M)  
   - **esporte_lazer** close behind (8,641 units; R$0.99 M)
 
 - **High-Value Customers:**  
-  - The top spender spent R$13,664 in a single order  
-  - The second-highest spent R$7,572 across two orders  
-  - Rounding out the top five, spenders between R$6.9 K and R$7.3 K
+  - The top customer spent R$13,664 in a single transaction  
+  - The second spent R$7,572 across two orders  
+  - Other high-value customers spent between R$6,900 and R$7,300, each placing only one order.
 
 - **Top Sellers by Revenue:**  
   - The leading seller generated R$249,641 over 1,132 orders  
